@@ -1,0 +1,11 @@
+[package]
+
+name = "tsfc"
+description = "Type-safe file controll"
+version = "0.1.0"
+authors = [ "mpotanin@gmail.com" ]
+repository = "https://github.com/potan/tsfc"
+license = "LGPL-3.0"
+
+[lib]
+name = "tsfc"
